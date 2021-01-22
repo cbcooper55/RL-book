@@ -1,0 +1,5 @@
+Activate virtual environment (in RL-book directory):
+cd C:\Users\17573\Box\Python\CME-241\RL-book
+.venv\Scripts\activate.bat
+
+
